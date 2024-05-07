@@ -1,0 +1,18 @@
+@media (max-width: 1599px) {
+    .header-menu-list {
+        column-gap: 60px;
+    }
+
+    .cardsWrapper {
+        width: 1260px;
+        column-gap: 20px;
+    }
+}
+
+@media (max-width: 1339px) {
+    .cardsWrapper {
+        width: 940px;
+        /*grid-template-columns: 300px 300px 300px;*/
+    }
+}
+
